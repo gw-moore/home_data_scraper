@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+*.csv
+*.db
+.venv
+*.pkl
+logs/
+raw_data/
+scratchpad.py
+scratchpad.ipynb
+__pycache__/
